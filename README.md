@@ -16,7 +16,7 @@
 >这个资料库是遵循MIT开源协议，你可以随意下载使用，但请勿作商业用途。
 资料来源为我个人制作、整理，或来源网络，或网友 Pull Request 提供，如有侵权请联系删除。
 
->但为了资料库继续发展，希望你也可以分享出自己有的资料，或者可以为该资料库内的资料进行勘误。你可以稍微学习一下[怎么 Pull Request](./how-to-pull-request.md)（编辑中）来贡献资料或勘误。
+>但为了资料库继续发展，希望你也可以分享出自己有的资料，或者可以为该资料库内的资料进行勘误。你可以稍微学习一下[怎么 Pull Request](how-to-pull-request/how-to-pull-request.md)（编辑中）来贡献资料或勘误。
 
 >可以先学一下别人有关如[如何 Pull Request](https://github.com/selfteaching/the-craft-of-selfteaching/blob/fe364e73c70204e832223a60fc9a7bf2cb44e7db/02.proof-of-work.ipynb)的教程
 
