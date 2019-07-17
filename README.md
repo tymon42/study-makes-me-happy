@@ -1,7 +1,19 @@
 # study-makes-me-happy
-The biggest and evolvable library of high school study material in the world.
+>The biggest and evolvable library of high school study material in the world.
 
 # 学习使我快乐
-世界上最大的且可不断进化的高中学习资料库
+>世界上最大的且可不断进化的高中学习资料库
+
+>初建于2019.7.17
 
 # 初衷
+>减少你找学习资料的时间，专注学习
+>>身边太多人把没有资料当作拖延症的借口，你看他们甚至都不用**拖延症**当借口了。于是乎就有了这个资料库。
+
+>与我个人而言，我相当于做了一个图书馆馆长。~~千万不要惹一个图书管理员~~
+
+# 门票
+>这个资料库是遵循MIT开源协议，你可以随意下载使用，但请勿作商业用途。
+资料来源为我个人制作、整理，或来源网络，或网友 Pull Request 提供，如有侵权请联系删除。
+
+>但为了资料库继续发展，希望你也可以分享出自己有的资料，或者可以为该资料库内的资料进行勘误。你可以稍微学习一下
