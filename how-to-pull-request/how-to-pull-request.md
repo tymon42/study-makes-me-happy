@@ -15,7 +15,7 @@
 ![简单方法的第二步](./简单方法的第二步.png)
 注意:一定要创建一个新分支，可以取名为 from-<your_username>，或是，by git.basic.tutorial 。
 
-#下面的没有写好,不用看先
+# 下面的没有写好,不用看先
 ## 如何使用 Pull Request 为资料库贡献或勘误
 >1. 使用浏览器访问 https://github.com/Tymon42/study-makes-me-happy；<br>
 >2. 点击右上角的 “Fork 按钮”，将该仓库 Fork 到你的 Github 账户中

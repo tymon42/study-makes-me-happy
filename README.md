@@ -29,4 +29,4 @@
 [Tymon42](https://press.one/main/p/d60a0e2c30f65f5d91dc522eedcaf9ca0689c26f)：
 >**地球ol** 萌新玩家
 
->Python 见习玩蛇师
+>**Python** 见习玩蛇师
