@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80dbf103-a08b-4f95-a00e-ebfd41c8f7ab" name="新增 英语-ENGLISH 文件夹" comment="配置文件">
+    <list default="true" id="80dbf103-a08b-4f95-a00e-ebfd41c8f7ab" name="新增 英语-ENGLISH 文件夹" comment="新建 思维导图 科目 文件夹">
+      <change afterPath="$PROJECT_DIR$/化学-Chemistry/化学_高考化学方程式大全_18页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/化学-Chemistry/化学_高考化学有机推断题解析_侧重如何解题_19页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/化学-Chemistry/化学_高考化学有机推断题解析_侧重知识梳理_25页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/化学-Chemistry/化学_高考化学知识点归纳与总结_侧重记忆_39页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/历史-History/历史_高中历史知识总结[人教版]_侧重知识梳理_33页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/地理-Geography/地理_高考地理23个常见简答题答题规范_34页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/地理-Geography/地理_高考地理知识点总结_侧重记忆_62页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/地理-Geography/地理_高考地理重点归纳_侧重知识梳理_98页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/政治-Politics/政治_2013年高考政治知识点总结_29页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数学-Math/数学_高考数学知识点总结_41页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数学-Math/数学_高考数学知识点总结及解题思路_122页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数学-Math/数学_高考数学解三角形复习资料_12页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数学-Math/数学_高考数学选择题神奇巧解_43页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/物理-physics/物理_高考物理解题技巧详解_侧重如何解题_34页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/物理-physics/物理_高考物理解题模型详解_侧重如何解题_80页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/1孟德尔遗传定律.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/2孟德尔遗传定律的应用.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/3性别决定和伴性遗传.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/4遗传的物质基础.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/7生物的变异与育种（上）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/生物_高中生命科学资料_侧重记忆_28页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/生物_高考生物必修一二三知识点总结(人教版)_侧重知识梳理_56页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生物-Biology/生物_高考生物知识结构网络_侧重知识梳理_86页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/英语-English/英语_800个有趣句子帮你记忆7000个单词_42页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/英语-English/英语_高中英语语法归纳总结_46页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/英语-English/英语_高考英语语法手册_98页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/英语-English/英语_高考英语语法精讲教程_162页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/语文-Chinese/语文_高考语文文言文知识点大全_82页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/语文-Chinese/语文_高考语文满分答题技巧_侧重解题技巧[勤奋扎实版]_35页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/语文-Chinese/语文_高考语文知识点全集_侧重语法基础知识_128页.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/语文-Chinese/语文_高考语文答题公式总结_侧重解题技巧[懒人速成版]_15页.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="620">
-                <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+              <first_editor relative-caret-position="400">
+                <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,8 +60,8 @@
         <entry file="file://$PROJECT_DIR$/how-to-pull-request/how-to-pull-request.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <first_editor relative-caret-position="800">
+                <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,10 +88,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="659" />
-    <option name="y" value="-11" />
-    <option name="width" value="1227" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -85,13 +119,16 @@
     <property name="last_opened_file_path" value="E:/PRJCT/pyeos" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\study-makes-me-happy\howt-to-pull-request" />
-      <recent name="E:\study-makes-me-happy\语文-Chinese" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\study-makes-me-happy\howt-to-pull-request" />
       <recent name="E:\study-makes-me-happy\思维导图\生物-BIOLOGY\必修一" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study-makes-me-happy\生物-Biology" />
+      <recent name="E:\study-makes-me-happy\政治-Politics" />
+      <recent name="E:\study-makes-me-happy\语文-Chinese" />
+      <recent name="E:\study-makes-me-happy\英语-English" />
+      <recent name="E:\study-makes-me-happy\物理-physics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,14 +238,20 @@
       <option name="project" value="LOCAL" />
       <updated>1563377860505</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="新建 思维导图 科目 文件夹">
+      <created>1563433339088</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563433339088</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15598291" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35458377" side_tool="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.6454162" weight="0.32897604" />
@@ -292,10 +335,51 @@
     <MESSAGE value="改错字how-to-pull-request.md&#10;readme.md" />
     <MESSAGE value="新增 英语-ENGLISH 文件夹" />
     <MESSAGE value="配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置文件" />
+    <MESSAGE value="新建 思维导图 科目 文件夹" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建 思维导图 科目 文件夹" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="400">
+            <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how-to-pull-request/how-to-pull-request.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="800">
+            <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="400">
+            <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how-to-pull-request/how-to-pull-request.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="800">
+            <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -357,22 +441,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/git-introduction.ipynb" />
+    <entry file="file://$PROJECT_DIR$/英语-ENGLISH/EN" />
     <entry file="file://$PROJECT_DIR$/how-to-pull-request/how-to-pull-request.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <first_editor relative-caret-position="800">
+            <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/英语-ENGLISH/EN" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="620">
-            <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <first_editor relative-caret-position="400">
+            <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
