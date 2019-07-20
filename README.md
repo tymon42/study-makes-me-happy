@@ -22,6 +22,9 @@
 
 >这就是我唯一希望你做的。
 
+# 用法
+![用法](./how-to-pull-request/ScreenClip.png)
+
 # 鸣谢
 > 技术大触[Cunky](https://www.cunoe.com/)
 
