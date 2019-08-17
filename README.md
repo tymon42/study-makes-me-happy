@@ -12,6 +12,8 @@
 
 >与我个人而言，我相当于做了一个图书馆馆长。~~千万不要惹一个图书管理员。~~
 
+# 来查看[WIKI](https://github.com/Tymon42/study-makes-me-happy/wiki/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E6%88%91%E5%BF%AB%E4%B9%90-study-makes-me-happy)：吧
+
 # 门票
 >这个资料库是遵循MIT开源协议，你可以随意下载使用，但请勿作商业用途。
 资料来源为我个人制作、整理，或来源网络，或网友 Pull Request 提供，如有侵权请联系删除。
