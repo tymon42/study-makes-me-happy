@@ -15,7 +15,7 @@
 
 >可以先学一下别人有关如[如何 Pull Request](https://github.com/selfteaching/the-craft-of-selfteaching/blob/fe364e73c70204e832223a60fc9a7bf2cb44e7db/02.proof-of-work.ipynb)的教程
 
->这就是我唯一希望你做的。
+>学会**聪明地**[提问](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)和[回答](https://github.com/BigCoke233/How-To-Answer-Questions-The-Smart-Way)
 
 # 用法
 ![用法](./how-to-pull-request/ScreenClip.png)
