@@ -15,7 +15,6 @@
 ![简单方法的第二步](./简单方法的第二步.png)
 注意:一定要创建一个新分支，可以取名为 from-<your_username>，或是，by git.basic.tutorial 。
 
-# 下面的没有写好,不用看先
 ## 如何使用 Pull Request 为资料库贡献或勘误
 >1. 使用浏览器访问 https://github.com/Tymon42/study-makes-me-happy；<br>
 >2. 点击右上角的 “Fork 按钮”，将该仓库 Fork 到你的 Github 账户中
@@ -41,3 +40,21 @@
 当自己的 Fork 过来的仓库已经被你在本地 “玩残” 了的时候，它千万不能被当作用来提交 Pull request 的版本。自己本地怎么玩都无所谓，但需要向别人提交 Pull request 的时候，必须重新弄一个当前最新版本到本地，而后再在其基础上修改。
 
 ## 如何在 Github 网站上将自己的 Fork 与原仓库同步
+
+(1) 在你的 Fork 页面中，点击 `Compare` 链接：
+
+(2) 将 `base repository` 更改成当前自己的 Fork，
+
+(3) 这时候，页面会显示 `There isn't anything to compare.`，因为你在比较 “自己” 和 “自己”。点击 `compare across forks` 链接，
+
+(4) 将 `head repository` 更改成 Upstream Repository（即，上游仓库），即为 `Tymon42/study-makes-me-happy`，
+
+(5) 稍等片刻，你会看到比较结果；而后你可以创建一个 Pull request —— 这是一个由你自己向你自己的 Fork 仓库提交的 Pull request：
+
+(6) 而后你在 `Pull requests` 标签页里会看到你刚刚提交的 Pull request：
+
+(7) 同意并合并之后的结果是，你的 Fork 与上游仓库同步完成了：
+
+当然，有时会出现一些你无法解决的问题，那么，还有一个最后的方法：
+
+> 将你的 Fork 删除，而后重新到 https://github.com/Tymon42/study-makes-me-happy 页面按一次 `Fork` 按钮……
